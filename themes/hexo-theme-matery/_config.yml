@@ -670,8 +670,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 我的幸福既无虚伪，也不会令人不安。
-    - 我有好好地活过。
+    - 我的幸福既无虚伪，也不会令人不安。我有好好地活过。
+    - S is not yet P.
 
 # 手机二级菜单.
 navMenu:
